@@ -2,7 +2,7 @@
 
 ### Profil
 
-- Homme
+- homme
 - 18 ans
 
 ### Diplôme
