@@ -1,11 +1,11 @@
 # CURRICULUM VITAE
 **Njiva Ariaina ANDRIAMBOAVONJY**
-Analamahitsy Cité 
-Logt 393
-Tel: 034 60 471 13
-E-Mail: njivaariaina47@gmail.com
-18ans, célibataire
-Nationalité Malagasy
+>Analamahitsy Cité 
+>Logt 393
+>Tel: 034 60 471 13
+>E-Mail: njivaariaina47@gmail.com
+>18ans, célibataire
+>Nationalité Malagasy
 
 ## Formation
 1. 2021: Formation sur la manipulation Adobe Photoshop à IS2M
