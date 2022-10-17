@@ -1,3 +1,8 @@
+# CURRICULUM VITAE
+  
+  
+### INFORMATIONS PERSONNELLES
+***
 **RATSIMANDRESY JOSEPH Andriantsoa**                            
 Lot lll J 36 Akadimbahoaka  
 Antananarivo 101  
@@ -6,7 +11,7 @@ Couriel : andriantsoa024@gmail.com
 22ans, célibataire  
 Nationalité malagasy  
   
-## FORMATION  
+### FORMATION  
 ***  
 **2013 :** CEPE.  
 **2017 :** BEPC.  
@@ -14,18 +19,18 @@ Nationalité malagasy
 **2021-2022 :** L1 en informatique à Institut Supérieur des Métiers de Madagascar.
   
    
-## EXPERIENCE
+### EXPERIENCE
 ***
 - cours de français niveau intermediaire
 - cours d'anglais niveau débutant
   
-## LANGUES  
+### LANGUES  
 ***
 - Malagasy
 - Français
 - Anglais (débutant)  
 
-## DIVERS  
+### DIVERS  
 ***
 - **Connaissances informatiques :** Word, Excel, Powerpoint, Internet  
 - **Loisirs :** football, jeux vidéo, ping-pong
