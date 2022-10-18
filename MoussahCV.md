@@ -10,7 +10,7 @@ Lot 2A 216 ter Tanjombato<br>
 
 # Diplômes
 
->* `2022:` HSK1<br>
+>* `2022:` HSK1
 >* `2021:` BACC Série S
 
 # Langues
@@ -26,4 +26,5 @@ Lot 2A 216 ter Tanjombato<br>
 > * Football<br>
 > * Lecture *(récit, roman...)*<br>
 > * Voyage<br>
-> * Documentation
+> * Documentation<br>
+> * Jeux vidéo
