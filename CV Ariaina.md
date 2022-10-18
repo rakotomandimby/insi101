@@ -1,6 +1,6 @@
 # CURRICULUM VITAE
 
-> ## Profil
+## Profil
 **Njiva Ariaina ANDRIAMBOAVONJY**
 - Analamahitsy Cité 
 - Logt 393
