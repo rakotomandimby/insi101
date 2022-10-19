@@ -1,8 +1,7 @@
 # Binome : Angelo et  Moussah
 
 ## BIOGRAPHIE 1:
-nouveau biographie Kaizer
+Kaizer
 
 ## BIOGRAPHIE 2:
 
-Updated R2K
