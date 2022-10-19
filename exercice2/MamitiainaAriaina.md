@@ -1,6 +1,7 @@
 ### <center> Mamitiana & Ariaina
 
-#### - Biographie Ariaina
+#### - Biographie Ariaina:
+  > Loisirs: Football et Basketball
 
 
-#### - Biographie Mamitiana
+#### - Biographie Mamitiana <br> Loisirs: Ecouter des speechs
