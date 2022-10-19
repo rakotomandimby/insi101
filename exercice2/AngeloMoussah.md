@@ -1,4 +1,4 @@
-# Binome : Angelo, Moussah
+# Binome : Angelo et  Moussah
 
 ## BIOGRAPHIE 1:
 By Ran2Kaizer
