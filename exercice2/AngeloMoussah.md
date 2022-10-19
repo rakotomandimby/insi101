@@ -1,8 +1,7 @@
 # Binome : Angelo, Moussah
 
 ## BIOGRAPHIE 1:
-
-
+By Ran2Kaizer
 
 
 ## BIOGRAPHIE 2:
