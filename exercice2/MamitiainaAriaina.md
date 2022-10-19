@@ -1,4 +1,4 @@
-### Mamitiana & Ariaina
+### <center> Mamitiana & Ariaina
 
 #### - Biographie Ariaina
 
