@@ -1,8 +1,8 @@
-## BINOME : **NASSIBA** et **TEFIMAMY**
+## BINOME : **Maminiaina** et **Ntsoa**
 
 ## BIOGRAPHIE 1 :
-Je m'appelle NASSIBA
+Je m'appelle
 ## BIOGRAPHIE 2 :
-Ny anarako dia TEFIMAMY  
+Ny anarako dia   
 Je pull puis je push
  OK!
