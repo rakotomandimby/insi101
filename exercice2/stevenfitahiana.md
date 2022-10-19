@@ -1,4 +1,4 @@
-# BINOME:Steven et Fitahiana
+# BINOME: Steven et Fitahiana
 
 ## Biographie 1:
 >Lorem 
