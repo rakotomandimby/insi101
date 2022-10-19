@@ -1,6 +1,6 @@
 ### Mamitiana & Ariaina
 
-#### Biographie Ariaina
+#### - Biographie Ariaina
 
 
-#### Biographie Mamitiana
+#### - Biographie Mamitiana
