@@ -2,7 +2,7 @@
 
 ## BIOGRAPHIE 1:
 By Ran2Kaizer
-
+Rise lorem
 
 ## BIOGRAPHIE 2:
 
