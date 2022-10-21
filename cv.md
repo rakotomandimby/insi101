@@ -18,7 +18,7 @@ RAZANAKOLONA Valisoa Fitahiana
 
 >Sexe: Feminin
 
-### *Formation*
+### *Formations*
 ----
 >**2022**: Baccalaureat Serie D
 
