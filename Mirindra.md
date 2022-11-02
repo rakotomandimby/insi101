@@ -60,5 +60,4 @@
 >- **Email :** <randrianarijaonamirindra@gmail.com>
 >
 >- **Adresse :** Lot II V 88 TER Ampandrana
->
->- **Facebook :** Randrianarijaona Mirindra
+
