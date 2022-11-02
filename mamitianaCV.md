@@ -12,6 +12,7 @@
 
 #### <center> Divers
 > **Langues étrangeres :** Français niveau C1, Anglais niveau B1 <br> **Loisirs :** Foot ball, Cuisiner
+o
 
 
 
