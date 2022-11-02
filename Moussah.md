@@ -1,7 +1,7 @@
 <font size="5"> **RANTONIRINA**</font><br> 
 <font size="4">**Manou Moussah**</font><br>
 18 ans , célibataire<br>
-Lot 2A 216 ter Tanjombato<br>
+Lot 2A 216 Tanjombato<br>
 **E-mail :** <rantokaizer@gmail.com><br>
 **Tel :**+261 34 70 581 23<br>
 <br> 
