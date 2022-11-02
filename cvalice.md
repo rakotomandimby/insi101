@@ -8,7 +8,7 @@ RAZANAKOLONA Valisoa Fitahiana
 
 >Lot IIH2GM 
 
->Tel: 032 96 404 68
+>Tel: 0329640468
 
 >Email: fitahianaalice@gmail.com
 
@@ -18,7 +18,7 @@ RAZANAKOLONA Valisoa Fitahiana
 
 >Sexe: Feminin
 
-### *Formation*
+### *Formations*
 ----
 >**2022**: Baccalaureat Serie D
 

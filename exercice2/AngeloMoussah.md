@@ -1,9 +1,8 @@
 # Binome : Angelo et  Moussah
 
 ## BIOGRAPHIE 1:
-By Ran2Kaizer
-
+Kaizer
 
 ## BIOGRAPHIE 2:
 
-By AngeloNR-27
+AngeloNR-27
