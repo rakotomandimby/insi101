@@ -31,4 +31,4 @@
 ### Sport et Loisirs
 
 - Basketball
-- Musique
+- Music
