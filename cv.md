@@ -8,7 +8,7 @@ RAZANAKOLONA Valisoa Fitahiana
 
 >Lot IIH2GM 
 
->Tel: 032 96 404 68
+>Tel: 034 79 726 05
 
 >Email: fitahianaalice@gmail.com
 
