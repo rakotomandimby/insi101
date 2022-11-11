@@ -3,7 +3,6 @@
 -[mirindraF.md](https://github.com/rakotomandimby/insi101/blob/main/projet/mirindraF.md)
 -[Moussah](Moussah.md)
 
-- [Steven](https://github.com/rakotomandimby/insi101/blob/main/projet/Steven.md)
 - https://github.com/rakotomandimby/insi101/blob/main/projet/Manjaka.md
 - 
 - [Manjaka.md](https://github.com/rakotomandimby/insi101/blob/main/projet/Manjaka.md)
