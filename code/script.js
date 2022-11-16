@@ -1,0 +1,1 @@
+d = document.getElementById("le_div");
