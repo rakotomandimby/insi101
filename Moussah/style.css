@@ -1,0 +1,12 @@
+button{
+    padding: 10px 20px;
+    background-color: #ffffff;
+    width: 100px;
+    margin: 15px 50%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-shadow: inset -1px 1px 3px rgba(7, 36, 70, 0.4);
+}
+
+button:active{
+    background-color: #00FFFF;
+}
